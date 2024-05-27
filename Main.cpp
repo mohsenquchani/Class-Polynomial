@@ -7,7 +7,7 @@ int main() {
 	cin >> p1;
 	poly p2(3);
 	cin >> p2;
-
+	//dwq
 	cout << p1 << endl;
 	cout << p2 << endl;
 
